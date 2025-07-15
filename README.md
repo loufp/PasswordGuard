@@ -24,7 +24,6 @@
 Попробуйте PasswordGuard и сделайте свои пароли неуязвимыми!
 
 
-
 **PasswordGuard** is a powerful password hashing tool that transforms plain-text passwords from pas.txt into complex, secure hashes. The project employs unique algorithms, including mathematical transformations and position-based symbol replacement (even/odd), while adding random elements for enhanced security.
 
 ***Key Features:**
